@@ -3,3 +3,6 @@ Electrical service design is the graphical depiction of various electrical loads
 
 ## Floor Plan of the Design
 ![alt text](floor_plan.png)
+
+## Presentation
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/pzXy_R_hOdg)
