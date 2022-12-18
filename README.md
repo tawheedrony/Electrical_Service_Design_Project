@@ -5,4 +5,4 @@ Electrical service design is the graphical depiction of various electrical loads
 ![alt text](floor_plan.png)
 
 ## Presentation
-[![Watch the video](https://img.youtu.be/pzXy_R_hOdg)](https://youtu.be/pzXy_R_hOdg)
+https://youtu.be/pzXy_R_hOdg
